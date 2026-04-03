@@ -1,0 +1,186 @@
+{
+    "przystanki": [
+        {
+            "id": "6377",
+            "nazwa": "Wartogłowiec Pętla 01",
+            "przyjaznaNazwa": "Wartogłowiec Pętla"
+        },
+        {
+            "id": "6378",
+            "nazwa": "Wartogłowiec Szkoła 01",
+            "przyjaznaNazwa": "Wartogłowiec Szkoła"
+        },
+        {
+            "id": "6401",
+            "nazwa": "Wartogłowiec Beskidzka 02",
+            "przyjaznaNazwa": "Wartogłowiec Beskidzka"
+        },
+        {
+            "id": "6375",
+            "nazwa": "Wartogłowiec Cmentarz 01",
+            "przyjaznaNazwa": "Wartogłowiec Cmentarz"
+        },
+        {
+            "id": "6381",
+            "nazwa": "Wartogłowiec Jaskrów 01",
+            "przyjaznaNazwa": "Wartogłowiec Jaskrów"
+        },
+        {
+            "id": "8716",
+            "nazwa": "Wartogłowiec Czarna Droga 01",
+            "przyjaznaNazwa": "Wartogłowiec Czarna Droga"
+        },
+        {
+            "id": "288",
+            "nazwa": "Tychy Browar 01",
+            "przyjaznaNazwa": "Tychy Browar"
+        },
+        {
+            "id": "6180",
+            "nazwa": "Tychy Kościuszki 02",
+            "przyjaznaNazwa": "Tychy Kościuszki"
+        },
+        {
+            "id": "6177",
+            "nazwa": "Tychy Rynek 01",
+            "przyjaznaNazwa": "Tychy Rynek"
+        },
+        {
+            "id": "159",
+            "nazwa": "Tychy Begonii 02",
+            "przyjaznaNazwa": "Tychy Begonii"
+        },
+        {
+            "id": "1156",
+            "nazwa": "Tychy Harcerska 02",
+            "przyjaznaNazwa": "Tychy Harcerska"
+        },
+        {
+            "id": "5445",
+            "nazwa": "Tychy Hetmańska 02",
+            "przyjaznaNazwa": "Tychy Hetmańska"
+        },
+        {
+            "id": "8703",
+            "nazwa": "Tychy Stoczniowców 70 02",
+            "przyjaznaNazwa": "Tychy Stoczniowców 70"
+        },
+        {
+            "id": "2764",
+            "nazwa": "Tychy Osiedle R 02",
+            "przyjaznaNazwa": "Tychy Osiedle R"
+        },
+        {
+            "id": "6849",
+            "nazwa": "Tychy Jaśkowicka 02",
+            "przyjaznaNazwa": "Tychy Jaśkowicka"
+        },
+        {
+            "id": "6225",
+            "nazwa": "Żwaków Borowa I 02",
+            "przyjaznaNazwa": "Żwaków Borowa I"
+        },
+        {
+            "id": "6208",
+            "nazwa": "Żwaków Myśliwska 02",
+            "przyjaznaNazwa": "Żwaków Myśliwska"
+        },
+        {
+            "id": "6214",
+            "nazwa": "Żwaków Nowa 02",
+            "przyjaznaNazwa": "Żwaków Nowa"
+        },
+        {
+            "id": "6249",
+            "nazwa": "Żwaków Św. Elżbiety 01",
+            "przyjaznaNazwa": "Żwaków Św. Elżbiety"
+        },
+        {
+            "id": "8707",
+            "nazwa": "Żwaków Cmentarz 01",
+            "przyjaznaNazwa": "Żwaków Cmentarz"
+        },
+        {
+            "id": "6229",
+            "nazwa": "Żwaków Rondo 01",
+            "przyjaznaNazwa": "Żwaków Rondo"
+        },
+        {
+            "id": "6210",
+            "nazwa": "Żwaków Legionów 01",
+            "przyjaznaNazwa": "Żwaków Legionów"
+        },
+        {
+            "id": "6212",
+            "nazwa": "Tychy Osiedle L 02",
+            "przyjaznaNazwa": "Tychy Osiedle L"
+        },
+        {
+            "id": "6252",
+            "nazwa": "Tychy Cztery Pory Roku 02",
+            "przyjaznaNazwa": "Tychy Cztery Pory Roku"
+        },
+        {
+            "id": "6253",
+            "nazwa": "Tychy Brama Słońca 01",
+            "przyjaznaNazwa": "Tychy Brama Słońca"
+        },
+        {
+            "id": "3472",
+            "nazwa": "Tychy Dmowskiego 01",
+            "przyjaznaNazwa": "Tychy Dmowskiego"
+        },
+        {
+            "id": "1057",
+            "nazwa": "Tychy Gen. Grota-Roweckiego 01",
+            "przyjaznaNazwa": "Tychy Gen. Grota-Roweckiego"
+        },
+        {
+            "id": "6261",
+            "nazwa": "Tychy Niepodległości 02",
+            "przyjaznaNazwa": "Tychy Niepodległości"
+        },
+        {
+            "id": "6288",
+            "nazwa": "Tychy Urząd Miasta 02",
+            "przyjaznaNazwa": "Tychy Urząd Miasta"
+        },
+        {
+            "id": "6283",
+            "nazwa": "Tychy Szpital Wojewódzki 01",
+            "przyjaznaNazwa": "Tychy Szpital Wojewódzki"
+        },
+        {
+            "id": "6285",
+            "nazwa": "Tychy Filaretów 01",
+            "przyjaznaNazwa": "Tychy Filaretów"
+        },
+        {
+            "id": "6278",
+            "nazwa": "Tychy Edukacji 01",
+            "przyjaznaNazwa": "Tychy Edukacji"
+        },
+        {
+            "id": "8104",
+            "nazwa": "Tychy Trzy Stawy 01",
+            "przyjaznaNazwa": "Tychy Trzy Stawy"
+        },
+        {
+            "id": "8102",
+            "nazwa": "Tychy Sadowa 01",
+            "przyjaznaNazwa": "Tychy Sadowa"
+        },
+        {
+            "id": "6397",
+            "nazwa": "Wartogłowiec Jaskrów 02",
+            "przyjaznaNazwa": "Wartogłowiec Jaskrów"
+        },
+        {
+            "id": "6399",
+            "nazwa": "Wartogłowiec Cmentarna 01",
+            "przyjaznaNazwa": "Tychy Cmentarna"
+        }
+        
+
+    ]
+}

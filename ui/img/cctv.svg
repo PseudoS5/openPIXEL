@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Warstwa_2" data-name="Warstwa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30.23 29.53">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-9 {
+        fill: none;
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-15 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-9" x="18.7" y="19.5" width="10.61" height="7.41"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-9" x="21.46" y="18.27" width="5.06" height="9.89" transform="translate(-5.38 39.07) rotate(-72.42)"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <path class="cls-9" d="M20.93,19.59l7.62,2.41c.24.08.44.24.55.46.11.22.14.48.06.72l-.96,3.03c-.08.24-.24.44-.46.55-.22.11-.48.14-.72.06l-7.62-2.41c-.24-.08-.44-.24-.55-.46-.11-.22-.14-.48-.06-.72l.96-3.03c.08-.24.24-.44.46-.55.22-.11.48-.14.72-.06Z"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-9" x="14.14" y="17.21" width="16.08" height="10.84"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="cls-9" x="17.14" y="15.82" width="10.12" height="13.64" transform="translate(-6.09 36.97) rotate(-72.42)"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <polygon class="cls-9" points="22.12 17.31 30.21 19.87 22.26 27.97 14.17 25.41 22.12 17.31"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-9" x=".22" y="11.4" width="22.7" height="15.74"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="cls-9" x="6.51" y="8.74" width="10.12" height="21.08" transform="translate(-10.3 24.49) rotate(-72.42)"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="cls-9" x="6.5" y="8.75" width="10.12" height="21.04" rx=".94" ry=".94" transform="translate(-10.31 24.47) rotate(-72.42)"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="cls-9" x="13.91" y="17.21" width="15.17" height="10.38"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="cls-9" x="16.46" y="15.96" width="10.12" height="12.93" transform="translate(-6.36 36.17) rotate(-72.42)"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <path class="cls-9" d="M22.34,17.38l6.3,2c.19.06.34.22.39.41.05.2,0,.4-.15.54l-6.63,6.76c-.4.41-1.01.56-1.56.39l-6.3-2c-.19-.06-.34-.22-.39-.41-.05-.19,0-.4.15-.54l6.63-6.76c.4-.41,1.01-.56,1.56-.39Z"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="cls-9" x="13.37" y="0" width="2.13" height="17.59"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <path class="cls-9" d="M14.4,0h.08C14.75,0,15.01.11,15.21.3s.3.45.3.73v15.53c0,.27-.11.53-.3.73s-.45.3-.73.3h-.08c-.27,0-.53-.11-.73-.3s-.3-.45-.3-.73V1.03c0-.27.11-.53.3-.73S14.13,0,14.4,0Z"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="cls-9" x="12.42" y="6.77" width="4.05" height="4.05"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <path class="cls-9" d="M14.44,6.77c-1.12,0-2.02.91-2.02,2.02s.91,2.02,2.02,2.02,2.02-.91,2.02-2.02-.91-2.02-2.02-2.02Z"/>
+    </clipPath>
+  </defs>
+  <g id="Warstwa_1-2" data-name="Warstwa 1">
+    <g class="cls-18">
+      <g class="cls-10">
+        <g class="cls-16">
+          <path class="cls-7" d="M20.04,19.3l9.41,2.98-1.53,4.83-9.41-2.98,1.53-4.83Z"/>
+        </g>
+      </g>
+    </g>
+    <g class="cls-13">
+      <g class="cls-4">
+        <g class="cls-11">
+          <path class="cls-9" d="M17.22,15.76l13.01,4.12-3.06,9.65-13.01-4.12,3.06-9.65Z"/>
+        </g>
+      </g>
+    </g>
+    <g class="cls-1">
+      <g class="cls-2">
+        <g class="cls-12">
+          <path class="cls-7" d="M3.06,11.27l20.06,6.35-3.06,9.65L0,20.92l3.06-9.65Z"/>
+        </g>
+      </g>
+    </g>
+    <g class="cls-5">
+      <g class="cls-6">
+        <g class="cls-8">
+          <path class="cls-7" d="M16.55,15.54l13.01,4.12-3.06,9.65-13.01-4.12,3.06-9.65Z"/>
+        </g>
+      </g>
+    </g>
+    <g class="cls-14">
+      <g class="cls-17">
+        <path class="cls-7" d="M13.37,0h2.13v17.59h-2.13V0Z"/>
+      </g>
+    </g>
+    <g class="cls-15">
+      <g class="cls-3">
+        <path class="cls-7" d="M12.42,6.77h4.05v4.05h-4.05v-4.05Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+{
+    "linie": [
+        {
+            "numer": "254",
+            "nazwa": "254",
+            "brygady": [
+                {
+                    "numer": "1",
+                    "nazwa": "1",
+                    "zadania": [
+                        {
+                            "numer": "1",
+                            "nazwa": "1",
+                            "przystanki": [
+                                {
+                                    
+                                }
+                            ]
+                        }
+                    ]
+
+                }
+            ]
+
+        }
+    ]
+}

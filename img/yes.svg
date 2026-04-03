@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Warstwa_2" data-name="Warstwa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.63 29.63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Warstwa_1-2" data-name="Warstwa 1">
+    <circle class="cls-1" cx="14.82" cy="14.82" r="13.81"/>
+    <line class="cls-1" x1="20.76" y1="9.65" x2="13.04" y2="19.98"/>
+    <line class="cls-1" x1="8.87" y1="15.36" x2="13.04" y2="19.98"/>
+  </g>
+</svg>

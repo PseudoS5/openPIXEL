@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Warstwa_2" data-name="Warstwa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.76 27.89">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1d1b;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Warstwa_1-2" data-name="Warstwa 1">
+    <rect class="cls-2" x="1" y="1" width="19.76" height="25.89"/>
+    <line class="cls-1" x1="4.32" y1="13.94" x2="17.44" y2="13.94"/>
+    <line class="cls-1" x1="4.32" y1="20.28" x2="17.44" y2="20.28"/>
+    <line class="cls-1" x1="4.32" y1="7.61" x2="17.44" y2="7.61"/>
+  </g>
+</svg>

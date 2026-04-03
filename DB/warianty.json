@@ -1,0 +1,129 @@
+{
+    "warianty": [
+        {
+            "linia": "0",
+            "wariant": "1",
+            "nazwa": "",
+            "kierunek": "Przejazd Techniczny",
+            "tresci": [
+                {
+                    "tablica": "front",
+                    "rozmiarX": 112,
+                    "rozmiarY": 16,
+                    "ID": 0,
+                    "tresc": "0-1.png"
+                }
+            ]
+        },
+        {
+            "linia": "0",
+            "wariant": "2",
+            "nazwa": "",
+            "kierunek": "Do Zajezdni",
+            "tresci": [
+                {
+                    "tablica": "front",
+                    "rozmiarX": 112,
+                    "rozmiarY": 16,
+                    "ID": 0,
+                    "tresc": "0-2.png"
+                }
+            ]
+        },
+        {
+            "linia": "0",
+            "wariant": "3",
+            "nazwa": "",
+            "kierunek": "Włączanie na linię",
+            "tresci": [
+                {
+                    "tablica": "front",
+                    "rozmiarX": 112,
+                    "rozmiarY": 16,
+                    "ID": 0,
+                    "tresc": "0-3.png"
+                }
+            ]
+        },
+        {
+            "linia": "0",
+            "wariant": "4",
+            "nazwa": "",
+            "kierunek": "Przerwa",
+            "tresci": [
+                {
+                    "tablica": "front",
+                    "rozmiarX": 112,
+                    "rozmiarY": 16,
+                    "ID": 0,
+                    "tresc": "0-4.png"
+                }
+            ]
+        },
+
+
+
+        {
+            "linia": "1",
+            "wariant": "1",
+            "nazwa": "1",
+            "kierunek": "Test",
+            "tresci": [
+                {
+                    "tablica": "front",
+                    "rozmiarX": 112,
+                    "rozmiarY": 16,
+                    "ID": 0,
+                    "tresc": "1-1.png"
+                }
+            ]
+        },
+        {
+            "linia": "1",
+            "wariant": "2",
+            "nazwa": "1",
+            "kierunek": "Test 2",
+            "tresci": [
+                {
+                    "tablica": "front",
+                    "rozmiarX": 112,
+                    "rozmiarY": 16,
+                    "ID": 0,
+                    "tresc": "1-2.png"
+                }
+            ]
+        },
+        {
+            "linia": "2",
+            "wariant": "1",
+            "nazwa": "2",
+            "kierunek": "Wartoglowiec Petla",
+            "tresci": [
+                {
+                    "tablica": "front",
+                    "rozmiarX": 112,
+                    "rozmiarY": 16,
+                    "ID": 0,
+                    "tresc": "2-1.png"
+                }
+            ]
+        },
+        {
+            "linia": "555",
+            "wariant": "1",
+            "nazwa": "",
+            "kierunek": "Figo <3",
+            "tresci": [
+                {
+                    "tablica": "front",
+                    "rozmiarX": 112,
+                    "rozmiarY": 16,
+                    "ID": 0,
+                    "tresc": "555-1.png"
+                }
+            ]
+        }
+
+
+    ]
+}
